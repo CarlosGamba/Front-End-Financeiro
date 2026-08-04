@@ -1,5 +1,3 @@
-# 🚀 API - Financeiro
-
 # 🚀 Front-end - Interface do Usuário
 
 Aplicação web com consumo eficiente das rotas da API backend, garantindo uma navegação fluida e integração em tempo real com os dados do sistema.
