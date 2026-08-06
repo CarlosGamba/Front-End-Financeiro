@@ -66,3 +66,4 @@ C:\Projetos\app-financeiro-flow\app-financeiro-flow\obj\Debug\net8.0\refint\app-
 C:\Projetos\app-financeiro-flow\app-financeiro-flow\obj\Debug\net8.0\app-financeiro-flow.pdb
 C:\Projetos\app-financeiro-flow\app-financeiro-flow\obj\Debug\net8.0\app-financeiro-flow.genruntimeconfig.cache
 C:\Projetos\app-financeiro-flow\app-financeiro-flow\obj\Debug\net8.0\ref\app-financeiro-flow.dll
+C:\Projetos\app-financeiro-flow\app-financeiro-flow\obj\Debug\net8.0\app-financeiro-flow.sourcelink.json

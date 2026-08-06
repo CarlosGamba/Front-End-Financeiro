@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\app-financeiro-flow\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\views\\fornecedor\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\views\\fornecedor\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\views\\fornecedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\views\\fornecedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\views\\fornecedor\\consultatodos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\views\\fornecedor\\consultatodos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\models\\fornecedor\\fornecedorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\models\\fornecedor\\fornecedorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\models\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\models\\login\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|c:\\projetos\\app-financeiro-flow\\app-financeiro-flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6C52ED-6604-ACFD-E81B-6766C2232C05}|app-financeiro-flow\\app-financeiro-flow.csproj|solutionrelative:app-financeiro-flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1471,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +67,160 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "app-financeiro-flow\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T22:59:18.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Views\\Fornecedor\\Criar.cshtml",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Views\\Fornecedor\\Criar.cshtml",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Views\\Fornecedor\\Criar.cshtml",
+              "RelativeToolTip": "app-financeiro-flow\\Views\\Fornecedor\\Criar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T23:26:40.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FornecedorViewModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Models\\Fornecedor\\FornecedorViewModel.cs",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Models\\Fornecedor\\FornecedorViewModel.cs",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Models\\Fornecedor\\FornecedorViewModel.cs",
+              "RelativeToolTip": "app-financeiro-flow\\Models\\Fornecedor\\FornecedorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T23:07:51.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "app-financeiro-flow\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T22:22:31.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultaTodos.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Views\\Fornecedor\\ConsultaTodos.cshtml",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Views\\Fornecedor\\ConsultaTodos.cshtml",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Views\\Fornecedor\\ConsultaTodos.cshtml",
+              "RelativeToolTip": "app-financeiro-flow\\Views\\Fornecedor\\ConsultaTodos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-06T12:39:36.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FornecedorController.cs",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Controllers\\FornecedorController.cs",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Controllers\\FornecedorController.cs",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Controllers\\FornecedorController.cs",
+              "RelativeToolTip": "app-financeiro-flow\\Controllers\\FornecedorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T23:12:40.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "app-financeiro-flow\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T21:13:18.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Views\\Fornecedor\\Editar.cshtml",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Views\\Fornecedor\\Editar.cshtml",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Views\\Fornecedor\\Editar.cshtml",
+              "RelativeToolTip": "app-financeiro-flow\\Views\\Fornecedor\\Editar.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-06T13:06:32.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "app-financeiro-flow\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-05T21:38:10.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\appsettings.json",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\appsettings.json",
+              "RelativeToolTip": "app-financeiro-flow\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-05T21:23:42.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Models\\Login\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Models\\Login\\LoginViewModel.cs",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Models\\Login\\LoginViewModel.cs",
+              "RelativeToolTip": "app-financeiro-flow\\Models\\Login\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T21:10:09.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Program.cs",
+              "RelativeDocumentMoniker": "app-financeiro-flow\\Program.cs",
+              "ToolTip": "C:\\Projetos\\app-financeiro-flow\\app-financeiro-flow\\Program.cs",
+              "RelativeToolTip": "app-financeiro-flow\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T21:41:09.186Z"
             }
           ]
         }

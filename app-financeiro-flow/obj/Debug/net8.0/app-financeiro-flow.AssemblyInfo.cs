@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("app-financeiro-flow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce6091ca7c3c6cc250fa63577825b96cdfcc4516")]
 [assembly: System.Reflection.AssemblyProductAttribute("app-financeiro-flow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("app-financeiro-flow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
